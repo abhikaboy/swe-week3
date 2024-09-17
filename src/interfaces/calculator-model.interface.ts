@@ -1,4 +1,3 @@
-
 import { ActionKeys } from '../enums/action-keys.enum';
 import { NumericKeys } from '../enums/numeric-keys.enum';
 import { OperatorKeys } from '../enums/operator-keys.enum';
@@ -15,5 +14,4 @@ export interface ICalculatorModel {
 
   // returns the contents of the calculator's display
   display(): string;
-
 }

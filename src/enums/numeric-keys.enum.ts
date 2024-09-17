@@ -1,4 +1,3 @@
-
 export enum NumericKeys {
   'ZERO' = '0',
   'ONE' = '1',
@@ -9,5 +8,5 @@ export enum NumericKeys {
   'SIX' = '6',
   'SEVEN' = '7',
   'EIGHT' = '8',
-  'NINE' = '9'
+  'NINE' = '9',
 }
